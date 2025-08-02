@@ -177,4 +177,4 @@ timestamp,deviceId,temperature,humidity,location
    - Predictive maintenance with Spark ML.
    - Multi-region failover for Event Hubs.
 
-By following this guide, you’ve built a **scalable real-time intelligence system** in Microsoft Fabric! 🚀
+By following this guide, you’ve built a **scalable real-time intelligence system** in Microsoft Fabric
